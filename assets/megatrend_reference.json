@@ -1,0 +1,827 @@
+[
+  {
+    "email_id": "19c689146b99909c",
+    "date": "2026-02-17",
+    "subject": "週刊Life is beautiful ２０２６年２月１７日号：AI時代のメモリ・ビジネス、トヨタ自動車の社長交代劇、AI時代のコンサルタント、Palantirの強さ、Anthropic Opus 4.6",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "今週のざっくばらん AI時代のメモリ・ビジネス AIの推論プロセスにおいてメモリが重要な役割を果たすことが明確になった結果、GPU向けのHBM(High Bandwidth Memory)の価格が高騰しているだけでなく、DRAM、フラッシュメモリ、ハードディスクの値段まで高騰し、メモリ関連株が急騰しています（注：私はMicronの株を保有しています）。",
+    "category": [
+      "最先端技術",
+      "メガトレンド",
+      "投資"
+    ],
+    "tags": [
+      "AI時代のメモリ・ビジネス",
+      "トヨタ自動車の社長交代劇",
+      "AI時代のコンサルタント",
+      "Palantirの強さ",
+      "Anthropic Opus 4.6",
+      "Anthropic",
+      "Palantir",
+      "トヨタ"
+    ],
+    "confidence_score": 0.85,
+    "summary": "主要論点は「AI時代のメモリ・ビジネス / トヨタ自動車の社長交代劇 / AI時代のコンサルタント など」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "AI計算基盤（GPU/専用チップ）とメモリ・製造装置の供給制約が、関連企業の収益性とバリュエーションを左右しやすい。"
+    ],
+    "related_entities": [
+      "Anthropic",
+      "Palantir",
+      "トヨタ"
+    ],
+    "source_link": "https://mail.google.com/mail/#all/19c689146b99909c"
+  },
+  {
+    "email_id": "19c447779d284962",
+    "date": "2026-02-10",
+    "subject": "週刊Life is beautiful ２０２６年２月１０日号：SaaS ビジネスの終わりの始まり、ClawdBot/Moltbot/OpenClawの危険性、Musk帝国",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "今週のざっくばらん SaaS ビジネスの終わりの始まり ここでは、過去に何度か、「コードが書けるAI」の誕生により、SaaS(Software as a Service)ビジネスがコモディティ化される可能性について触れてきましたが、ようやくウォール・ストリートにもAIがSaaSの競争環境を変える可能性への警戒感が芽生えたのか、1月の終わりに、SAP、ServiceNowなどの株が大幅に下落しました",
+    "category": [
+      "最先端技術",
+      "メガトレンド",
+      "投資"
+    ],
+    "tags": [
+      "SaaS ビジネスの終わりの始まり",
+      "ClawdBot/Moltbot/OpenClawの危険性",
+      "Musk帝国"
+    ],
+    "confidence_score": 0.85,
+    "summary": "主要論点は「SaaS ビジネスの終わりの始まり / ClawdBot/Moltbot/OpenClawの危険性 / Musk帝国」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "生成AI/エージェント普及で、ソフトウェア企業は価格体系・競争優位（データ/統合/配布）の再定義が必要。",
+      "大型契約・買収・IPOなどイベントは短期材料になりやすい一方、持続性は基礎収益力と競争環境で判断が必要。"
+    ],
+    "related_entities": [],
+    "source_link": "https://mail.google.com/mail/#all/19c447779d284962"
+  },
+  {
+    "email_id": "19c207bbc6c07527",
+    "date": "2026-02-03",
+    "subject": "週刊Life is beautiful ２０２６年２月３日号：2034 AI(きみ)のいる明日、AI時代の人間の役割、ゴジラ VS 東京ドーム、雑学：PalantirとGrok、ソフトウェア企業とコンサル会社の違い",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "今週のざっくばらん 2034 AI(きみ)のいる明日 私の著書、「2034 AI(きみ)のいる明日」の予約受付が開始されたことは先週書きましたが、読者の皆さんの応援もあり、この原稿を書いている時点で、Amazonの「情報社会」カテゴリーで１位になっています。",
+    "category": [
+      "最先端技術",
+      "メガトレンド"
+    ],
+    "tags": [
+      "2034 AI(きみ)のいる明日",
+      "AI時代の人間の役割",
+      "ゴジラ VS 東京ドーム",
+      "雑学：PalantirとGrok",
+      "ソフトウェア企業とコンサル会社の違い",
+      "Palantir",
+      "Grok"
+    ],
+    "confidence_score": 0.75,
+    "summary": "主要論点は「2034 AI(きみ)のいる明日 / AI時代の人間の役割 / ゴジラ VS 東京ドーム など」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "生成AI/エージェント普及で、ソフトウェア企業は価格体系・競争優位（データ/統合/配布）の再定義が必要。"
+    ],
+    "related_entities": [
+      "Palantir",
+      "Grok"
+    ],
+    "source_link": "https://mail.google.com/mail/#all/19c207bbc6c07527"
+  },
+  {
+    "email_id": "19bfc5ec2479d627",
+    "date": "2026-01-27",
+    "subject": "週刊Life is beautiful ２０２６年１月２７日号：ソニーのCESからの撤退、ソニー・ホンダ、書籍「２０３４ 未来予測──AI（きみ）のいる明日」、リアルな世界は退屈すぎる、AIがもたらす世界への変化、ミニ・ドライバー",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "今週のざっくばらん ソニーのCESからの撤退、ソニー・ホンダ 今年のCESから、ソニー・グループが撤退したことが話題になりました。",
+    "category": [
+      "最先端技術",
+      "メガトレンド"
+    ],
+    "tags": [
+      "ソニーのCESからの撤退",
+      "ソニー・ホンダ",
+      "書籍「２０３４ 未来予測──AI（きみ）のいる明日」",
+      "リアルな世界は退屈すぎる",
+      "AIがもたらす世界への変化",
+      "ミニ・ドライバー",
+      "Sony",
+      "ホンダ"
+    ],
+    "confidence_score": 0.75,
+    "summary": "主要論点は「ソニーのCESからの撤退 / ソニー・ホンダ / 書籍「２０３４ 未来予測──AI（きみ）のいる明日」 など」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "生成AI/エージェント普及で、ソフトウェア企業は価格体系・競争優位（データ/統合/配布）の再定義が必要。"
+    ],
+    "related_entities": [
+      "Sony",
+      "ホンダ"
+    ],
+    "source_link": "https://mail.google.com/mail/#all/19bfc5ec2479d627"
+  },
+  {
+    "email_id": "19bd853bfb664278",
+    "date": "2026-01-20",
+    "subject": "週刊Life is beautiful ２０２６年１月２０日号：Google Gemini と Boston Dynamics、ヒューマノイドが持つ本当のインパクト、AIデータセンターの熱を使って温泉街が作れるか",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "今週のざっくばらん Google Gemini と Boston Dynamics 先週はあっさりと紹介しただけですが、Boston DynamicsとGoogleのパートナーシップは、今後の人型ロボット市場に大きな影響を与えるものだと私は思います。",
+    "category": [
+      "最先端技術",
+      "投資"
+    ],
+    "tags": [
+      "Google Gemini と Boston Dynamics",
+      "ヒューマノイドが持つ本当のインパクト",
+      "AIデータセンターの熱を使って温泉街が作れるか",
+      "Google",
+      "Gemini",
+      "Boston Dynamics"
+    ],
+    "confidence_score": 0.75,
+    "summary": "主要論点は「Google Gemini と Boston Dynamics / ヒューマノイドが持つ本当のインパクト / AIデータセンターの熱を使って温泉街が作れるか」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "AIデータセンター関連の設備投資（電力・冷却・ネットワーク）は、中期テーマとして周辺産業へ波及しやすい。"
+    ],
+    "related_entities": [
+      "Google",
+      "Gemini",
+      "Boston Dynamics"
+    ],
+    "source_link": "https://mail.google.com/mail/#all/19bd853bfb664278"
+  },
+  {
+    "email_id": "19bb44ede9dc93a5",
+    "date": "2026-01-13",
+    "subject": "週刊Life is beautiful ２０２６年１月１３日号：Satya Nadella氏との会話。AI時代の凄い働き方、CES2026でのNVIDIA",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "今週のざっくばらん Satya Nadella氏との会話。AI時代の凄い働き方 先日、MicrosoftのCEO、Satya Nadella氏と話す機会がありました。",
+    "category": [
+      "最先端技術",
+      "メガトレンド"
+    ],
+    "tags": [
+      "Satya Nadella氏との会話。AI時代の凄い働き方",
+      "CES2026でのNVIDIA",
+      "NVIDIA",
+      "Microsoft",
+      "Satya Nadella"
+    ],
+    "confidence_score": 0.75,
+    "summary": "主要論点は「Satya Nadella氏との会話。AI時代の凄い働き方 / CES2026でのNVIDIA」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "AI計算基盤（GPU/専用チップ）とメモリ・製造装置の供給制約が、関連企業の収益性とバリュエーションを左右しやすい。"
+    ],
+    "related_entities": [
+      "NVIDIA",
+      "Microsoft",
+      "Satya Nadella"
+    ],
+    "source_link": "https://mail.google.com/mail/#all/19bb44ede9dc93a5"
+  },
+  {
+    "email_id": "19b9044c87ee20ad",
+    "date": "2026-01-06",
+    "subject": "週刊Life is beautiful ２０２６年１月６日号：2026年はソフトウェアのカンブリア爆発期、執筆中の「未来本」、GUI Chat Protocol、NVIDIAによるGroqの買収",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "今週のざっくばらん 2026年はソフトウェアのカンブリア爆発期 2025年に起こった一番の変化は、Claude Codeに代表されるAIコーディング環境の進化です。",
+    "category": [
+      "最先端技術",
+      "投資"
+    ],
+    "tags": [
+      "2026年はソフトウェアのカンブリア爆発期",
+      "執筆中の「未来本」",
+      "GUI Chat Protocol",
+      "NVIDIAによるGroqの買収",
+      "NVIDIA",
+      "Claude"
+    ],
+    "confidence_score": 0.85,
+    "summary": "主要論点は「2026年はソフトウェアのカンブリア爆発期 / 執筆中の「未来本」 / GUI Chat Protocol など」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "生成AI/エージェント普及で、ソフトウェア企業は価格体系・競争優位（データ/統合/配布）の再定義が必要。",
+      "大型契約・買収・IPOなどイベントは短期材料になりやすい一方、持続性は基礎収益力と競争環境で判断が必要。"
+    ],
+    "related_entities": [
+      "NVIDIA",
+      "Claude"
+    ],
+    "source_link": "https://mail.google.com/mail/#all/19b9044c87ee20ad"
+  },
+  {
+    "email_id": "19b6c2c721c75795",
+    "date": "2025-12-30",
+    "subject": "週刊Life is beautiful ２０２５年１２月３０日号：中国でビジター向けにリリースされた統合アプリ、米国のエネルギー危機、Nano Banana Pro との遊び方",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "今週のざっくばらん 中国でビジター向けにリリースされた統合アプリ 中国で、ビジター向けに、「ペイメント、交通機関、税金還付、リアルタイム翻訳、シティガイド」の全てが可能な統合アプリ「ニーハオ・チャイナ」が観光当局からリリースされました。",
+    "category": [
+      "最先端技術",
+      "メガトレンド",
+      "投資"
+    ],
+    "tags": [
+      "中国でビジター向けにリリースされた統合アプリ",
+      "米国のエネルギー危機",
+      "Nano Banana Pro との遊び方",
+      "Nano Banana Pro",
+      "中国",
+      "米国"
+    ],
+    "confidence_score": 0.75,
+    "summary": "主要論点は「中国でビジター向けにリリースされた統合アプリ / 米国のエネルギー危機 / Nano Banana Pro との遊び方」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "AIデータセンター関連の設備投資（電力・冷却・ネットワーク）は、中期テーマとして周辺産業へ波及しやすい。",
+      "政策・規制・地政学リスク（移民、通貨、金融政策など）が、成長産業の採用・投資環境に影響しやすい。"
+    ],
+    "related_entities": [
+      "Nano Banana Pro"
+    ],
+    "source_link": "https://mail.google.com/mail/#all/19b6c2c721c75795"
+  },
+  {
+    "email_id": "19b482d04589a2d6",
+    "date": "2025-12-23",
+    "subject": "週刊Life is beautiful ２０２５年１２月２３日号：第1回AIショートフィルムフェス、SpaceXのIPO、AIバブル",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "今週のざっくばらん 第1回AIショートフィルムフェス オンラインで開催していた「第1回AIショートフィルムフェス」ですが、各部門のファイナリスト（ノミネーション）、部門賞、および最終グランプリが決定しました。",
+    "category": [
+      "最先端技術",
+      "メガトレンド",
+      "投資"
+    ],
+    "tags": [
+      "第1回AIショートフィルムフェス",
+      "SpaceXのIPO",
+      "AIバブル",
+      "SpaceX"
+    ],
+    "confidence_score": 0.85,
+    "summary": "主要論点は「第1回AIショートフィルムフェス / SpaceXのIPO / AIバブル」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "大型契約・買収・IPOなどイベントは短期材料になりやすい一方、持続性は基礎収益力と競争環境で判断が必要。"
+    ],
+    "related_entities": [
+      "SpaceX"
+    ],
+    "source_link": "https://mail.google.com/mail/#all/19b482d04589a2d6"
+  },
+  {
+    "email_id": "19b242077757bcfc",
+    "date": "2025-12-16",
+    "subject": "週刊Life is beautiful ２０２５年１２月１６日号：Nanoimprint Lithography（NIL）とは、日本版タームプレミアムショック、東京にできた、とある「凄い日本料理屋」の話、AIは人の職を奪うのか？",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "今週のざっくばらん Nanoimprint Lithography（NIL）とは 1.4ナノ半導体、電力10分の1で製造 DNPとキヤノンが27年実用化という記事を目にしたので、少し調べてみました。",
+    "category": [
+      "最先端技術",
+      "メガトレンド",
+      "投資"
+    ],
+    "tags": [
+      "Nanoimprint Lithography（NIL）とは",
+      "日本版タームプレミアムショック",
+      "東京にできた、とある「凄い日本料理屋」の話",
+      "AIは人の職を奪うのか？",
+      "DNP",
+      "キヤノン",
+      "NIL"
+    ],
+    "confidence_score": 0.85,
+    "summary": "主要論点は「Nanoimprint Lithography（NIL）とは / 日本版タームプレミアムショック / 東京にできた、とある「凄い日本料理屋」の話 など」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "AI計算基盤（GPU/専用チップ）とメモリ・製造装置の供給制約が、関連企業の収益性とバリュエーションを左右しやすい。"
+    ],
+    "related_entities": [
+      "DNP",
+      "キヤノン",
+      "NIL"
+    ],
+    "source_link": "https://mail.google.com/mail/#all/19b242077757bcfc"
+  },
+  {
+    "email_id": "19b00081e9f3ab9b",
+    "date": "2025-12-09",
+    "subject": "週刊Life is beautiful ２０２５年１２月９日号：日本のロボット戦略に対する提言、日本の知られざる凄いAI関連株、Gemini3とNano Banana Proで画像再現",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "今週のざっくばらん 日本のロボット戦略に対する提言 「政府、人型の生成AIロボ開発へ 「人にできることは何でもできる」という報道を見ました。",
+    "category": [
+      "最先端技術",
+      "メガトレンド",
+      "投資"
+    ],
+    "tags": [
+      "日本のロボット戦略に対する提言",
+      "日本の知られざる凄いAI関連株",
+      "Gemini3とNano Banana Proで画像再現",
+      "Gemini",
+      "Nano Banana Pro",
+      "日本"
+    ],
+    "confidence_score": 0.85,
+    "summary": "主要論点は「日本のロボット戦略に対する提言 / 日本の知られざる凄いAI関連株 / Gemini3とNano Banana Proで画像再現」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "生成AI/エージェント普及で、ソフトウェア企業は価格体系・競争優位（データ/統合/配布）の再定義が必要。"
+    ],
+    "related_entities": [
+      "Gemini",
+      "Nano Banana Pro"
+    ],
+    "source_link": "https://mail.google.com/mail/#all/19b00081e9f3ab9b"
+  },
+  {
+    "email_id": "19adbfc8234bd847",
+    "date": "2025-12-02",
+    "subject": "週刊Life is beautiful ２０２５年１２月２日号：Google vs. OpenAI、生成AI時代の働き方、MulmoChatを使ったLLMのベンチマーク",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "今週のざっくばらん Google vs. OpenAI ここ数カ月、Googleが立て続けに強力なモデルを出してきています。 大規模言語モデルの Gemini 3、画像生成モデルの Nano Banana Pro など、「ようやく本気を出してきた」という印象を持った方も多いのではないでしょうか。",
+    "category": [
+      "最先端技術",
+      "投資"
+    ],
+    "tags": [
+      "Google vs. OpenAI",
+      "生成AI時代の働き方",
+      "MulmoChatを使ったLLMのベンチマーク",
+      "Google",
+      "OpenAI",
+      "Gemini",
+      "Nano Banana Pro"
+    ],
+    "confidence_score": 0.85,
+    "summary": "主要論点は「Google vs. OpenAI / 生成AI時代の働き方 / MulmoChatを使ったLLMのベンチマーク」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "生成AI/エージェント普及で、ソフトウェア企業は価格体系・競争優位（データ/統合/配布）の再定義が必要。"
+    ],
+    "related_entities": [
+      "Google",
+      "OpenAI",
+      "Gemini",
+      "Nano Banana Pro"
+    ],
+    "source_link": "https://mail.google.com/mail/#all/19adbfc8234bd847"
+  },
+  {
+    "email_id": "19ab7f8c01ef883d",
+    "date": "2025-11-25",
+    "subject": "週刊Life is beautiful ２０２５年１１月２５日号：The Dawn of the AI-Native Operating System",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "今週のざっくばらん The Dawn of the AI-Native Operating System ChatGPTがOpenAIから発表されて3年が経とうとしています。その後、Function Call、MCP、Code Interpreter、Artifact、Multi-modal LLM、Agentなど、数多くの仕組みが生まれました。",
+    "category": [
+      "最先端技術"
+    ],
+    "tags": [
+      "The Dawn of the AI-Native Operating System",
+      "OpenAI",
+      "MCP"
+    ],
+    "confidence_score": 0.75,
+    "summary": "主要論点は「The Dawn of the AI-Native Operating System」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "生成AI/エージェント普及で、ソフトウェア企業は価格体系・競争優位（データ/統合/配布）の再定義が必要。"
+    ],
+    "related_entities": [
+      "OpenAI"
+    ],
+    "source_link": "https://mail.google.com/mail/#all/19ab7f8c01ef883d"
+  },
+  {
+    "email_id": "19a93f08c47747a3",
+    "date": "2025-11-18",
+    "subject": "週刊Life is beautiful ２０２５年１１月１８日号：Kimi K2 Thinking、ライター稼業、ロングテール、レッドオーシャン、和洋女子大学、AIライフデザイン学部、XPeng IRON",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "今週のざっくばらん Kimi K2 Thinking 今年の1月に、中国から「DeepSeek R1」というオープンソースモデルがリリースされ、業界全体にショックを与えました。",
+    "category": [
+      "最先端技術",
+      "メガトレンド"
+    ],
+    "tags": [
+      "Kimi K2 Thinking",
+      "ライター稼業",
+      "ロングテール",
+      "レッドオーシャン",
+      "和洋女子大学",
+      "AIライフデザイン学部",
+      "XPeng IRON",
+      "AI",
+      "中国"
+    ],
+    "confidence_score": 0.75,
+    "summary": "主要論点は「Kimi K2 Thinking / ライター稼業 / ロングテール など」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "生成AI/エージェント普及で、ソフトウェア企業は価格体系・競争優位（データ/統合/配布）の再定義が必要。",
+      "政策・規制・地政学リスク（移民、通貨、金融政策など）が、成長産業の採用・投資環境に影響しやすい。"
+    ],
+    "related_entities": [],
+    "source_link": "https://mail.google.com/mail/#all/19a93f08c47747a3"
+  },
+  {
+    "email_id": "19a81e00aa11ac90",
+    "date": "2025-11-14",
+    "subject": "「締切まであと半月」今からでも作れる。あなたの1本を見せてください",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "「締切まであと半月」今からでも作れる。あなたの1本を見せてください 株式会社まぐまぐです。 AIショートフィルムフェス2025の応募締切が 11月30日（日） に迫ってきました。",
+    "category": [
+      "最先端技術",
+      "メガトレンド"
+    ],
+    "tags": [
+      "「締切まであと半月」今からでも作れる。あなたの1本を見せてください",
+      "AI"
+    ],
+    "confidence_score": 0.7,
+    "summary": "主要論点は「「締切まであと半月」今からでも作れる。あなたの1本を見せてください」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "生成AI/エージェント普及で、ソフトウェア企業は価格体系・競争優位（データ/統合/配布）の再定義が必要。"
+    ],
+    "related_entities": [],
+    "source_link": "https://mail.google.com/mail/#all/19a81e00aa11ac90"
+  },
+  {
+    "email_id": "19a6fe3af45bfdac",
+    "date": "2025-11-11",
+    "subject": "週刊Life is beautiful ２０２５年１１月１１日号：Elon Muskの報酬パッケージ、Google TPU vs. NVIDIA GPU、MicrosoftがOpenAIが必要とするAIインフラ全てを自ら構築しなかった理由、AIインフラ投資、AGI論争",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "今週のざっくばらん Elon Muskの報酬パッケージ Elon Muskの新しい報酬パッケージが、先週のTeslaの株主総会で承認されました。",
+    "category": [
+      "最先端技術",
+      "メガトレンド",
+      "投資"
+    ],
+    "tags": [
+      "Elon Muskの報酬パッケージ",
+      "Google TPU vs. NVIDIA GPU",
+      "MicrosoftがOpenAIが必要とするAIインフラ全てを自ら構築しなかった理由",
+      "AIインフラ投資",
+      "AGI論争",
+      "Google",
+      "NVIDIA",
+      "Microsoft",
+      "OpenAI",
+      "Tesla"
+    ],
+    "confidence_score": 0.85,
+    "summary": "主要論点は「Elon Muskの報酬パッケージ / Google TPU vs. NVIDIA GPU / MicrosoftがOpenAIが必要とするAIインフラ全てを自ら構築しなかった理由 など」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "AI計算基盤（GPU/専用チップ）とメモリ・製造装置の供給制約が、関連企業の収益性とバリュエーションを左右しやすい。",
+      "大型契約・買収・IPOなどイベントは短期材料になりやすい一方、持続性は基礎収益力と競争環境で判断が必要。"
+    ],
+    "related_entities": [
+      "Google",
+      "Microsoft",
+      "OpenAI",
+      "NVIDIA",
+      "Tesla"
+    ],
+    "source_link": "https://mail.google.com/mail/#all/19a6fe3af45bfdac"
+  },
+  {
+    "email_id": "19a4bd5143f4968b",
+    "date": "2025-11-04",
+    "subject": "週刊Life is beautiful ２０２５年１１月３日号：MulmoCast、MicrosoftとOpenAIの関係、米中冷戦は、日本にとってのビジネスチャンス、変異しつつあるITビジネス",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "今週のざっくばらん MulmoCast MulmoCastのデスクトップアプリをリリースしたので、報告します。Mac版とWindows版の両方があり、下のURLからダウンロードが可能です。",
+    "category": [
+      "最先端技術",
+      "メガトレンド",
+      "投資"
+    ],
+    "tags": [
+      "MulmoCast",
+      "MicrosoftとOpenAIの関係",
+      "米中冷戦は、日本にとってのビジネスチャンス",
+      "変異しつつあるITビジネス",
+      "Microsoft",
+      "OpenAI",
+      "米中",
+      "日本"
+    ],
+    "confidence_score": 0.75,
+    "summary": "主要論点は「MulmoCast / MicrosoftとOpenAIの関係 / 米中冷戦は、日本にとってのビジネスチャンス など」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "生成AI/エージェント普及で、ソフトウェア企業は価格体系・競争優位（データ/統合/配布）の再定義が必要。",
+      "政策・規制・地政学リスク（移民、通貨、金融政策など）が、成長産業の採用・投資環境に影響しやすい。"
+    ],
+    "related_entities": [
+      "Microsoft",
+      "OpenAI"
+    ],
+    "source_link": "https://mail.google.com/mail/#all/19a4bd5143f4968b"
+  },
+  {
+    "email_id": "19a27bbc01758228",
+    "date": "2025-10-28",
+    "subject": "週刊Life is beautiful ２０２５年１０月２８日号：Digital Euro、脳の不思議、Codex やClaude Codeの使いこなし方",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "今週のざっくばらん Digital Euro 「デジタル・ユーロ」に関する記事（ECBのデジタル通貨、1人50万円に制限案 預金流出抑え銀行安定）を目にしたので、少し調べてみました。",
+    "category": [
+      "最先端技術",
+      "メガトレンド",
+      "投資"
+    ],
+    "tags": [
+      "Digital Euro",
+      "脳の不思議",
+      "Codex やClaude Codeの使いこなし方",
+      "ECB",
+      "Claude"
+    ],
+    "confidence_score": 0.85,
+    "summary": "主要論点は「Digital Euro / 脳の不思議 / Codex やClaude Codeの使いこなし方」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "生成AI/エージェント普及で、ソフトウェア企業は価格体系・競争優位（データ/統合/配布）の再定義が必要。",
+      "政策・規制・地政学リスク（移民、通貨、金融政策など）が、成長産業の採用・投資環境に影響しやすい。"
+    ],
+    "related_entities": [
+      "ECB",
+      "Claude"
+    ],
+    "source_link": "https://mail.google.com/mail/#all/19a27bbc01758228"
+  },
+  {
+    "email_id": "19a03c05719af73f",
+    "date": "2025-10-21",
+    "subject": "週刊Life is beautiful ２０２５年１０月２１日号：ハロウィーンと秋景色、AIネイティブな時代のUI/UX、AIが置き換えるべき市場、OpenAIとBroadcomの契約、「AIブーム」と「AIバブル」",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "今週のざっくばらん ハロウィーンと秋景色 ハロウィーンの季節が近づいて来ました。日本では、渋谷の歩行者天国で仮装をした若者が暴れるイメージがありますが、米国のそれは、子供達向けのイベントで、仮装した子供たちが近所の家を訪れては「Trick or treat（イタズラをされたくなければお菓子を頂戴）」と言ってお菓子をもらいます。",
+    "category": [
+      "最先端技術",
+      "メガトレンド",
+      "投資"
+    ],
+    "tags": [
+      "ハロウィーンと秋景色",
+      "AIネイティブな時代のUI/UX",
+      "AIが置き換えるべき市場",
+      "OpenAIとBroadcomの契約",
+      "「AIブーム」と「AIバブル」",
+      "OpenAI",
+      "Broadcom",
+      "日本",
+      "米国"
+    ],
+    "confidence_score": 0.85,
+    "summary": "主要論点は「ハロウィーンと秋景色 / AIネイティブな時代のUI/UX / AIが置き換えるべき市場 など」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "生成AI/エージェント普及で、ソフトウェア企業は価格体系・競争優位（データ/統合/配布）の再定義が必要。",
+      "大型契約・買収・IPOなどイベントは短期材料になりやすい一方、持続性は基礎収益力と競争環境で判断が必要。",
+      "政策・規制・地政学リスク（移民、通貨、金融政策など）が、成長産業の採用・投資環境に影響しやすい。"
+    ],
+    "related_entities": [
+      "OpenAI",
+      "Broadcom",
+      "米国",
+      "日本"
+    ],
+    "source_link": "https://mail.google.com/mail/#all/19a03c05719af73f"
+  },
+  {
+    "email_id": "199dfb4d4d1c118d",
+    "date": "2025-10-14",
+    "subject": "週刊Life is beautiful ２０２５年１０月１４日号：オンデマンド・コンテンツの時代、OpenAIとAMDの大型契約、GPU レンタルビジネスの粗利率、ボイス・インターフェイスとスティーブ・ジョブスの哲学",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "今週のざっくばらん オンデマンド・コンテンツの時代 オープンソースな形で開発しているMulmoCastは、日進月歩で進化している様々な生成系AIを活用し、誰にでも簡単に、映像やスライドなどの「コンテンツ」を作成できるようにすることを目的としたツールです。",
+    "category": [
+      "最先端技術",
+      "投資"
+    ],
+    "tags": [
+      "オンデマンド・コンテンツの時代",
+      "OpenAIとAMDの大型契約",
+      "GPU レンタルビジネスの粗利率",
+      "ボイス・インターフェイスとスティーブ・ジョブスの哲学",
+      "OpenAI",
+      "AMD",
+      "GPU"
+    ],
+    "confidence_score": 0.85,
+    "summary": "主要論点は「オンデマンド・コンテンツの時代 / OpenAIとAMDの大型契約 / GPU レンタルビジネスの粗利率 など」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "AI計算基盤（GPU/専用チップ）とメモリ・製造装置の供給制約が、関連企業の収益性とバリュエーションを左右しやすい。",
+      "大型契約・買収・IPOなどイベントは短期材料になりやすい一方、持続性は基礎収益力と競争環境で判断が必要。"
+    ],
+    "related_entities": [
+      "OpenAI",
+      "AMD"
+    ],
+    "source_link": "https://mail.google.com/mail/#all/199dfb4d4d1c118d"
+  },
+  {
+    "email_id": "199bb96e5f20a641",
+    "date": "2025-10-07",
+    "subject": "週刊Life is beautiful ２０２５年１０月７日号：大規模言語モデルと非決定性、群衆の英知と群衆の愚行、AIデータセンター・ブーム、NVIDIAによる支配、ベンダーファイナンス",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "今週のざっくばらん 大規模言語モデルと非決定性 OpenAIのCTOを務めた後に会社を離れ、Thinking MachinesというAIベンチャーを立ち上げたMira Muratiは、20人以上をOpenAIから引き抜き、a16z、Accel、GV などから$2billion(約3000億円)という巨額のシードマネーを調達して注目を集めています。",
+    "category": [
+      "最先端技術",
+      "メガトレンド",
+      "投資"
+    ],
+    "tags": [
+      "大規模言語モデルと非決定性",
+      "群衆の英知と群衆の愚行",
+      "AIデータセンター・ブーム",
+      "NVIDIAによる支配",
+      "ベンダーファイナンス",
+      "OpenAI",
+      "NVIDIA",
+      "データセンター",
+      "ファイナンス"
+    ],
+    "confidence_score": 0.85,
+    "summary": "主要論点は「大規模言語モデルと非決定性 / 群衆の英知と群衆の愚行 / AIデータセンター・ブーム など」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "AIデータセンター関連の設備投資（電力・冷却・ネットワーク）は、中期テーマとして周辺産業へ波及しやすい。",
+      "大型契約・買収・IPOなどイベントは短期材料になりやすい一方、持続性は基礎収益力と競争環境で判断が必要。"
+    ],
+    "related_entities": [
+      "OpenAI",
+      "NVIDIA"
+    ],
+    "source_link": "https://mail.google.com/mail/#all/199bb96e5f20a641"
+  },
+  {
+    "email_id": "199979899e65d698",
+    "date": "2025-09-30",
+    "subject": "週刊Life is beautiful ２０２５年９月３０日号： 日銀の保有するETFの使い方、次世代プラットフォームの話、AIコーディング",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "今週のざっくばらん 日銀の保有するETFの使い方 先日、日銀がようやく、保有するETF（上場投資信託）の売却を開始することを発表しました。",
+    "category": [
+      "最先端技術",
+      "メガトレンド",
+      "投資"
+    ],
+    "tags": [
+      "日銀の保有するETFの使い方",
+      "次世代プラットフォームの話",
+      "AIコーディング",
+      "日銀",
+      "BOJ",
+      "ETF"
+    ],
+    "confidence_score": 0.85,
+    "summary": "主要論点は「日銀の保有するETFの使い方 / 次世代プラットフォームの話 / AIコーディング」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "生成AI/エージェント普及で、ソフトウェア企業は価格体系・競争優位（データ/統合/配布）の再定義が必要。",
+      "政策・規制・地政学リスク（移民、通貨、金融政策など）が、成長産業の採用・投資環境に影響しやすい。"
+    ],
+    "related_entities": [
+      "日銀",
+      "BOJ"
+    ],
+    "source_link": "https://mail.google.com/mail/#all/199979899e65d698"
+  },
+  {
+    "email_id": "199737dd6f93903d",
+    "date": "2025-09-23",
+    "subject": "週刊Life is beautiful ２０２５年９月２３日号： H-1Bビザ・ショック、　Meta Connect、ヒューマノイド、究極のNLUI、コンテキスト・エンジニアリング",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "今週のざっくばらん H-1Bビザ・ショック 先週の金曜日に、トランプ大統領が、H-1Bビザで働く外国人に対して、雇い主は年に10万ドル支払わなければならないという大統領令に署名をし、物議を醸しています。",
+    "category": [
+      "最先端技術",
+      "メガトレンド",
+      "投資"
+    ],
+    "tags": [
+      "H-1Bビザ・ショック",
+      "Meta Connect",
+      "ヒューマノイド",
+      "究極のNLUI",
+      "コンテキスト・エンジニアリング",
+      "Meta",
+      "H-1B",
+      "トランプ",
+      "米国"
+    ],
+    "confidence_score": 0.85,
+    "summary": "主要論点は「H-1Bビザ・ショック / Meta Connect / ヒューマノイド など」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "政策・規制・地政学リスク（移民、通貨、金融政策など）が、成長産業の採用・投資環境に影響しやすい。"
+    ],
+    "related_entities": [
+      "Meta",
+      "H-1B",
+      "米国"
+    ],
+    "source_link": "https://mail.google.com/mail/#all/199737dd6f93903d"
+  },
+  {
+    "email_id": "1994f7e0f0623132",
+    "date": "2025-09-16",
+    "subject": "週刊Life is beautiful ２０２５年９月１６日号：MulmoCastのビジョン、GoogleのAIサマリーがもたらすメディア危機、MRAMというイノベーション、テクノファシズム",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "今週のざっくばらん MulmoCastのビジョン MulmoCastの開発は順調に進んでおり、まもなく、デスクトップ版のアプリもリリースする予定です。",
+    "category": [
+      "最先端技術",
+      "メガトレンド"
+    ],
+    "tags": [
+      "MulmoCastのビジョン",
+      "GoogleのAIサマリーがもたらすメディア危機",
+      "MRAMというイノベーション",
+      "テクノファシズム",
+      "Google",
+      "MRAM"
+    ],
+    "confidence_score": 0.75,
+    "summary": "主要論点は「MulmoCastのビジョン / GoogleのAIサマリーがもたらすメディア危機 / MRAMというイノベーション など」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "AI計算基盤（GPU/専用チップ）とメモリ・製造装置の供給制約が、関連企業の収益性とバリュエーションを左右しやすい。",
+      "生成AI/エージェント普及で、ソフトウェア企業は価格体系・競争優位（データ/統合/配布）の再定義が必要。",
+      "政策・規制・地政学リスク（移民、通貨、金融政策など）が、成長産業の採用・投資環境に影響しやすい。"
+    ],
+    "related_entities": [
+      "Google",
+      "MRAM"
+    ],
+    "source_link": "https://mail.google.com/mail/#all/1994f7e0f0623132"
+  },
+  {
+    "email_id": "1992b6f75ead5fdb",
+    "date": "2025-09-09",
+    "subject": "週刊Life is beautiful ２０２５年９月９日号：メルマガの画像とCloudflare、Replicate、Google ナノバナナ、監視社会と治安",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "今週のざっくばらん メルマガの画像とCloudflare これまでメルマガの画像は、私のブログをホスティングしていたTypePadのサーバーに置いていたものを参照する形をとっていましたが、先週になって、とうとう、TypePadがサービスを中止するという連絡が来たので、あわてて新たな画像のホスティング先を見つけなければならなくなりました。",
+    "category": [
+      "最先端技術",
+      "メガトレンド",
+      "投資"
+    ],
+    "tags": [
+      "メルマガの画像とCloudflare",
+      "Replicate",
+      "Google ナノバナナ",
+      "監視社会と治安",
+      "Google",
+      "Cloudflare",
+      "Replicate",
+      "監視社会",
+      "治安"
+    ],
+    "confidence_score": 0.75,
+    "summary": "主要論点は「メルマガの画像とCloudflare / Replicate / Google ナノバナナ など」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "生成AI/エージェント普及で、ソフトウェア企業は価格体系・競争優位（データ/統合/配布）の再定義が必要。",
+      "政策・規制・地政学リスク（移民、通貨、金融政策など）が、成長産業の採用・投資環境に影響しやすい。"
+    ],
+    "related_entities": [
+      "Google",
+      "Cloudflare",
+      "Replicate"
+    ],
+    "source_link": "https://mail.google.com/mail/#all/1992b6f75ead5fdb"
+  },
+  {
+    "email_id": "19907657d6d48f22",
+    "date": "2025-09-02",
+    "subject": "週刊Life is beautiful ２０２５年９月２日号： AI時代のソフトウェア・エンジニアリング、人型ロボット（ヒューマノイド）が社会にもたらすインパクト",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "今週のざっくばらん AI時代のソフトウェア・エンジニアリング ソフトウェア・エンジニアが、AIによる影響を最も最初に受ける仕事になってしまった、という話は少し前にも書きましたが、最近、この話が、ネットでも話題になることが増えました。",
+    "category": [
+      "最先端技術",
+      "メガトレンド"
+    ],
+    "tags": [
+      "AI時代のソフトウェア・エンジニアリング",
+      "人型ロボット（ヒューマノイド）が社会にもたらすインパクト",
+      "AI",
+      "ロボット",
+      "社会"
+    ],
+    "confidence_score": 0.75,
+    "summary": "主要論点は「AI時代のソフトウェア・エンジニアリング / 人型ロボット（ヒューマノイド）が社会にもたらすインパクト」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "生成AI/エージェント普及で、ソフトウェア企業は価格体系・競争優位（データ/統合/配布）の再定義が必要。"
+    ],
+    "related_entities": [],
+    "source_link": "https://mail.google.com/mail/#all/19907657d6d48f22"
+  },
+  {
+    "email_id": "198e35c588b5cb85",
+    "date": "2025-08-26",
+    "subject": "週刊Life is beautiful ２０２５年８月２６日号：AIによる仕事の消失が、最初に始まった業界、緊縮財政 vs. 積極財政、PerplexityによるChromeの買収",
+    "sender_address": "mailmag@mag2premium.com",
+    "excerpt": "今週のざっくばらん AIによる仕事の消失が、最初に始まった業界 先週のNew York Timesに、「Goodbye, $165000 Tech Jobs. Student Coders Seek Work at Chipotle.（さようなら、16万5千ドルのテック職。コーディングを学んだ学生たちはChipotleで職を探す）」というタイトルの記事が掲載されて話題になりました。",
+    "category": [
+      "最先端技術",
+      "メガトレンド"
+    ],
+    "tags": [
+      "AIによる仕事の消失が",
+      "最初に始まった業界",
+      "緊縮財政 vs. 積極財政",
+      "PerplexityによるChromeの買収",
+      "Perplexity",
+      "Chrome",
+      "財政"
+    ],
+    "confidence_score": 0.75,
+    "summary": "主要論点は「AIによる仕事の消失が / 最初に始まった業界 / 緊縮財政 vs. 積極財政 など」。スニペットに基づき、技術・社会実装・市場への波及を論じている号。",
+    "implications_for_investors": [
+      "生成AI/エージェント普及で、ソフトウェア企業は価格体系・競争優位（データ/統合/配布）の再定義が必要。",
+      "政策・規制・地政学リスク（移民、通貨、金融政策など）が、成長産業の採用・投資環境に影響しやすい。",
+      "大型契約・買収・IPOなどイベントは短期材料になりやすい一方、持続性は基礎収益力と競争環境で判断が必要。"
+    ],
+    "related_entities": [
+      "Perplexity"
+    ],
+    "source_link": "https://mail.google.com/mail/#all/198e35c588b5cb85"
+  }
+]
